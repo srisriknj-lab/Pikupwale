@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: PICKUPWALE Courier",
+  "description": "PICKUPWALE is a trusted Courier \u0026 Cargo service based in Kannauj, specializing in perfume and attar shipments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

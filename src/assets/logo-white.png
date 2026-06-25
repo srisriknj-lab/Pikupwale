@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <title>PICKUPWALE — Courier &amp; Cargo Services</title>
+    <meta name="description" content="PICKUPWALE — Courier &amp; Cargo Services — built on Replit. Update this description to reflect the app." />
+    <meta name="robots" content="index, follow" />
+    <meta property="og:title" content="PICKUPWALE — Courier &amp; Cargo Services" />
+    <meta property="og:description" content="PICKUPWALE — Courier &amp; Cargo Services — built on Replit. Update this description to reflect the app." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="PICKUPWALE — Courier &amp; Cargo Services" />
+    <meta name="twitter:description" content="PICKUPWALE — Courier &amp; Cargo Services — built on Replit. Update this description to reflect the app." />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script type="module" crossorigin src="/assets/index-DzR0cdyb.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-DnQfHTom.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  <script src="https://replit-cdn.com/replit-pill/replit-pill.global.js" data-referral-code="v6bar7k0b1i0" data-repl-id="236138e1-6540-4448-b5d1-a694c2e974b1"></script></body>
+</html>
